@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "mqttproto",
+  "versions": [
+    {
+      "commit": "2c416ad1d17b4e0aa0e945fb147e57aa63acdfb9",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:43:48.978452+00:00"
+    }
+  ]
+}
