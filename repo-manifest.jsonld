@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/mqttproto/commit/2c416ad1d17b4e0aa0e945fb147e57aa63acdfb9",
       "git:hexsha": "2c416ad1d17b4e0aa0e945fb147e57aa63acdfb9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
